@@ -1,5 +1,7 @@
 package day1_primitive_data_types;
 
+import java.sql.SQLOutput;
+
 public class Main {
     //concatination Склеивать текст
     public static void main(String[] args){
@@ -17,5 +19,7 @@ public class Main {
         long number6=2343243543534L;
 
         System.out.println("Long : "+number5+" "+number6);
+        System.out.println("hello Aizada Chmon");
+        System.out.println("Hello puka");
     }
 }
